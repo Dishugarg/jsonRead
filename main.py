@@ -23,6 +23,10 @@ if __name__ == '__main__':
     mid = divmod(start+end, 2)[0]
     while cards[getlocation] ==def locate_cards(cards,query):
     start = 0
+    print("hello")
+    print("hello")
+    print("hello")
+    print("hello")
     end = len(cards)-1
     mid = divmod(start+end, 2)[0]
     while cards[getlocation] ==def locate_cards(cards,query):
