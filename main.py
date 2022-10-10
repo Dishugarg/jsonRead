@@ -12,3 +12,37 @@ if __name__ == '__main__':
         },
         'output': 4
     }
+    
+    def locate_cards(cards,query):
+    start = 0
+    end = len(cards)-1
+    mid = divmod(start+end, 2)[0]
+    while cards[getlocation] ==def locate_cards(cards,query):
+    start = 0
+    end = len(cards)-1
+    mid = divmod(start+end, 2)[0]
+    while cards[getlocation] ==def locate_cards(cards,query):
+    start = 0
+    end = len(cards)-1
+    mid = divmod(start+end, 2)[0]
+    while cards[getlocation] ==def locate_cards(cards,query):
+    start = 0
+    end = len(cards)-1
+    mid = divmod(start+end, 2)[0]
+    while cards[getlocation] ==def locate_cards(cards,query):
+    start = 0
+    end = len(cards)-1
+    mid = divmod(start+end, 2)[0]
+    while cards[getlocation] ==def locate_cards(cards,query):
+    start = 0
+    end = len(cards)-1
+    mid = divmod(start+end, 2)[0]
+    while cards[getlocation] ==def locate_cards(cards,query):
+    start = 0
+    end = len(cards)-1
+    mid = divmod(start+end, 2)[0]
+    while cards[getlocation] ==def locate_cards(cards,query):
+    start = 0
+    end = len(cards)-1
+    mid = divmod(start+end, 2)[0]
+    while cards[getlocation] ==
